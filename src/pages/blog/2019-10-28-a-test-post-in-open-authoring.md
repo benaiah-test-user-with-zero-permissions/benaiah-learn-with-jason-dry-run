@@ -8,4 +8,4 @@ featuredimage: /img/blog-index.jpg
 tags:
   - abc
 ---
-a test post in open authoring
+updating open authoring test post
